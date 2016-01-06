@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Alex\AndroidStudioProjects\LenScape\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\jars\libs\internal_impl-23.1.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8716243bf04bae8d6c9ca94d27b9a9be7236f0a3">
+        <dex dex="C:\Users\Alex\AndroidStudioProjects\LenScape\app\build\intermediates\pre-dexed\debug\internal_impl-23.1.0-0444b2275e8008d2d5bab20220a43fffb6204328.jar" />
+    </item>
+    <item
+        jar="C:\Users\Alex\AndroidStudioProjects\LenScape\app\build\intermediates\exploded-aar\com.android.support\design\23.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="19026d31f5d3ae868db81319671a642be5fbba08">
+        <dex dex="C:\Users\Alex\AndroidStudioProjects\LenScape\app\build\intermediates\pre-dexed\debug\classes-e2146525aa79fd8500739120ebd07565c00a8ce8.jar" />
+    </item>
+    <item
+        jar="C:\Users\Alex\AndroidStudioProjects\LenScape\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="ddde541c289c8b816a8f8fd6c325d80788c522a6">
+        <dex dex="C:\Users\Alex\AndroidStudioProjects\LenScape\app\build\intermediates\pre-dexed\debug\classes-cea23d35e53d6bd81d5af69089ca7ff26d76a5c7.jar" />
+    </item>
+    <item
+        jar="C:\Users\Alex\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.1.0\support-annotations-23.1.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="92e3fc113ec3ee36b64603a38857b95700025633">
+        <dex dex="C:\Users\Alex\AndroidStudioProjects\LenScape\app\build\intermediates\pre-dexed\debug\support-annotations-23.1.0-3953c2d417298177d57adac823644bd7a0392571.jar" />
+    </item>
+    <item
+        jar="C:\Users\Alex\AndroidStudioProjects\LenScape\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="3f151e49c316a5ab2c065969a3b3b55ef9b393fc">
+        <dex dex="C:\Users\Alex\AndroidStudioProjects\LenScape\app\build\intermediates\pre-dexed\debug\classes-bde82cb708c28ba9cfd8625b4d7deea02f709800.jar" />
+    </item>
+    <item
+        jar="C:\Users\Alex\AndroidStudioProjects\LenScape\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="57ae0d750ff83f0c738d21720224ac7ea866a094">
+        <dex dex="C:\Users\Alex\AndroidStudioProjects\LenScape\app\build\intermediates\pre-dexed\debug\classes-da32ed71dd3426139d25db58a88b48b862cae9d6.jar" />
+    </item>
+    <item
+        jar="C:\Users\Alex\AndroidStudioProjects\LenScape\app\build\intermediates\exploded-aar\com.android.support\support-v13\23.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1a57337a520bf40b9ad1e074cb780527dffa1aac">
+        <dex dex="C:\Users\Alex\AndroidStudioProjects\LenScape\app\build\intermediates\pre-dexed\debug\classes-b182942568a2fb88f7834a859007fbf857ed6bcc.jar" />
+    </item>
+    <item
+        jar="C:\Users\Alex\AndroidStudioProjects\LenScape\app\build\intermediates\exploded-aar\com.android.support\support-v13\23.1.0\jars\libs\internal_impl-23.1.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="076c7d9e22cc325b8008ff799e0c06dfb8eefdf3">
+        <dex dex="C:\Users\Alex\AndroidStudioProjects\LenScape\app\build\intermediates\pre-dexed\debug\internal_impl-23.1.0-307de9099f8105fdfc5a1284220735b7ac5025e3.jar" />
+    </item>
+
+</items>
